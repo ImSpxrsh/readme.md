@@ -1,11 +1,12 @@
-# Im Sparsh, 
+# I'm Sparsh. Innovator, tech + finance enthusiast, and full-stack learner.
+, 
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on: @Zenlocked
-- 🌱 I’m currently learning: Three.JS
-- 👯 I’m seeking funding/grant opportunities & internships!
-- 📫 How to reach me: dannywchenofficial@gmail.com
+- 🔭 Building Aidsense for the Congressional App Challange
+- 🌱 I’m currently learning: Three.JS and Flutter
+- 👯 I’m currently: Innovation & Technology Intern @ Institute of Youth in Policy
+- 📫 How to reach me: mail@sparshroy.com
 
 ## 🛠️ Languages and Tools
 
