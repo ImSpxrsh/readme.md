@@ -18,7 +18,6 @@
 
 ## 📈 GitHub Stats
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ImSpxrsh&theme=onedark)](https://github.com/ImSpxrsh/github-profile-trophy)
 ![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ImSpxrsh&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ImSpxrsh&layout=compact&theme=radical)
 
