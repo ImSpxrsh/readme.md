@@ -1,5 +1,5 @@
 # I'm Sparsh. Innovator, tech + finance enthusiast, and full-stack learner.
-, 
+
 
 ## 🚀 About Me
 
